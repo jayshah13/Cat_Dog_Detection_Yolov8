@@ -1,0 +1,10 @@
+path: '/content/Dataset'
+train: '/content/Dataset/Cat_And_Dog_Detection/training/images'
+val: '/content/Dataset/Cat_And_Dog_Detection/val/images'
+
+# class names
+names:
+  0: 'Cat'
+  1: 'Dog'
+
+nc: 2
