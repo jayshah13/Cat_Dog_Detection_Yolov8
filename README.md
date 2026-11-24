@@ -146,7 +146,7 @@ Add the license that applies to this project. If you have not selected one, do n
 
 **YOUR NAME**
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: @https://github.com/jayshah13
 
 ---
 
