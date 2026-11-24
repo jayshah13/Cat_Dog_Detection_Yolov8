@@ -36,7 +36,6 @@ Cat-Dog-Detection-Using-YOLOv8/
 ├── weights/                 # Trained model weights (if included)
 ├── notebooks/               # Jupyter notebooks (if included)
 ├── results/                 # Prediction or evaluation results (if included)
-├── requirements.txt         # Python dependencies (if included)
 └── README.md
 ```
 
